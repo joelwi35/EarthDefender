@@ -13,9 +13,9 @@ If any objects reach the earth, the population will suffer and fall.  If the Ear
 
 There are 3 types of defensive ordinances at your disposal.  Some enemies are immune to one or two ordinance types so experiment to figure out what works for each incoming foe.
 
-1. Rockets. Rockets are effective against most non shielded foes, such as asteroids.
-2. Lasers.  Lasers are effective against alien craft.
-3. Lightning (ion cannon).  Lightning is used to bring down shielded foes, and the only ordinance that will eventually lower the Mother Ship's shields.
+1. Yellow Rockets. Rockets are effective against most non shielded foes, such as asteroids.
+2. Blue Lasers. Lasers are effective against alien craft.
+3. Purple Lightning. Lightning is used to bring down shielded foes, and the only ordinance that will eventually lower the Mother Ship's shields.
 
 # Controls
 
@@ -23,11 +23,23 @@ With an Xbox game controller (recommended)
 
 The left thumb stick is used to rotate the Earth's lone "gun" around the planet in a 360 degree arc, either clockwise, or counter-clockwise.  
 
-The 'B' button fires rockets.
+ - 'B' button for yellow rockets.
+ - 'X' button for purple lightning blasts.
+ - 'A' button for blue lasers.
 
-The 'X' button fires purple lightning blasts.
+keyboard:
 
-The 'A' button fires blue lasers.
+ - 'A' to rotate gun counter-clockwise
+ - 'D' to rotate gun clockwise
+ - 'Alt' for yellow rockets
+ - 'Ctrl' for blue lasters
+ - 'Shift' for purple lighting 
+
+Mouse: 
+
+ - Left button for blue laser
+ - Right button for yellow rocket
+ - Middle button for purple lighting
 
 # Power Ups
 
