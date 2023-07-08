@@ -55,6 +55,6 @@ In the lower left corner of the game window is a "zoomed out" view of offscreen 
 
 # The Mother Ship
 
-The Mother Ship is massive. The Earth cannot sustain contact with it.  It is heavily shielded.  Only ion blasts will weaken its shields.  You must try to continually deal with all other threats approaching and attacking the Earth while simultaneously trying to lower the Mother Ship's shields.  Its shields will indicate they are weaking as they continually change color to a deeper shade of red.  If you successfully destroy its shield, finish it off quickly, and you will win.
+The Mother Ship is massive. The Earth cannot sustain contact with it.  It is heavily shielded.  Only lightning blasts will weaken its shields.  You must try to continually deal with all other threats approaching and attacking the Earth while simultaneously trying to lower the Mother Ship's shields.  Its shields will indicate they are weaking as they continually change color to a deeper shade of red.  If you successfully destroy its shield, finish it off quickly, and you will win.
 
 
